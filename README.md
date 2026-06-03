@@ -1,4 +1,4 @@
-# gh-actions-codex-review
+# Codex Code Review Github Action
 
 A GitHub Action that runs [OpenAI Codex](https://github.com/openai/codex-action) as an automated PR code reviewer. Codex reads the PR diff, applies a review-guidelines prompt, and posts its findings back as a PR comment.
 
